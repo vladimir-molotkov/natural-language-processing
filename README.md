@@ -1,3 +1,3 @@
 # Natural Language Processing
 
-NLP course for MIPT program
+NLP course from MIPT program
