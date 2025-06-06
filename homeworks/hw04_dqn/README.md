@@ -4,4 +4,4 @@
 
 last_state_dict.pt is trained model
 
-use only homework_pytorch_main.ipynb
+I only used homework_pytorch_main.ipynb. For view in it github look at ...nbconvert.ipynb file.
